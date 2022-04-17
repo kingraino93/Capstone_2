@@ -1,0 +1,25 @@
+body{
+  font-family: 'Fredoka', sans-serif;
+  background-color: #001A23;
+  color: white;
+  text-align: center;
+  border: 50px solid #31493C;
+  border-top: 0px;
+  margin: 0px;
+  }
+
+p{
+form{
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+#sub{
+  background-color: #FFDD00;
+  height: 40px;
+  width: 150px;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 0.5em;
+  border-radius: 25px;
+}
